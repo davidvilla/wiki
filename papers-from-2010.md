@@ -64,7 +64,7 @@ JCR
     * 2017 JCR 1.541 (Q2)
 18. 2016-CVIU: Evidential event inference in transport video surveillance
 
-    * 2016 JCR 2.498
+    * 2016 JCR 2.498 (Q2)
 19. 2015-JSTARS: A Scalable and Dynamically Reconfigurable FPGA-Based Embedded System for Real-Time Hyperspectral Unmixing
 
     * 2015 JCR 2.145 (Q1)
@@ -103,7 +103,7 @@ JCR
     * 2011 JCR 0.575 (Q4)
 31. 2012-PRL: Common-sense reasoning for human action recognition
 
-    * 2010 JCR 1.771
+    * 2011 JCR 1.034 (Q3)
 32. 2012-SENSORS: Process-in-Network: A Comprehensive Network Processing Approach
 
     * 2012 JCR 1.953 (Q1)

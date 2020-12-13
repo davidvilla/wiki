@@ -13,10 +13,10 @@ JCR
 
 1. 2020-Electronics: FPGA-Based Solution for On-Board Verification of Hardware Modules Using HLS
 
-    * 2020 JCR 2.412 (Q2)
+    * 2019 JCR 2.412 (Q2)
 2. 2020-RemoteSensing: FPGA-Based On-Board Hyperspectral Imaging Compression: Benchmarking Performance and Energy Efficiency against GPU Implementations
 
-    * 2020 JCR 4.509 (Q2)
+    * 2019 JCR 4.509 (Q2)
 3. 2020-IEEE-Access: Robotics vs. Game-Console-Based Platforms to Learn Computer Architecture
 
     * 2019 JCR 3.745 (Q1)

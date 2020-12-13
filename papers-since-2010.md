@@ -6,162 +6,162 @@ Summary
 * Journals: 46
 * JCR: 37
 
-   * Q1: 13
-   * Q2: 13
-   * Q3: 7
-   * Q4: 2
-   * None: 2
+  * Q1: 13
+  * Q2: 13
+  * Q3: 7
+  * Q4: 2
+  * None: 2
 
 JCR
 ---
 
 1. 2020-Electronics: FPGA-Based Solution for On-Board Verification of Hardware Modules Using HLS
 
-  * 2019 JCR 2.412 (Q2)
+   * 2019 JCR 2.412 (Q2)
 
 2. 2020-RemoteSensing: FPGA-Based On-Board Hyperspectral Imaging Compression: Benchmarking Performance and Energy Efficiency against GPU Implementations
 
-  * 2019 JCR 4.509 (Q2)
+   * 2019 JCR 4.509 (Q2)
 
 3. 2020-IEEE-Access: Robotics vs. Game-Console-Based Platforms to Learn Computer Architecture
 
-  * 2019 JCR 3.745 (Q1)
+   * 2019 JCR 3.745 (Q1)
 
 4. 2020-IJGI: A Proposal for Modeling Indoor–Outdoor Spaces through IndoorGML, Open Location Code and OpenStreetMap
 
-  * 2018 JCR 2.239 (Q3)
+   * 2018 JCR 2.239 (Q3)
 
 5. 2019-IJDSN: A computer-vision-based system for at-home rheumatoid arthritis rehabilitation
 
-  * 2018 JCR 1.614 (Q3)
+   * 2018 JCR 1.614 (Q3)
 
 6. 2019-IVLSI: Testing framework for on-board verification of HLS modules using grey-box technique and FPGA overlays
 
-  * 2019 JCR 1.214 (Q4)
+   * 2019 JCR 1.214 (Q4)
 
 7. 2019-TFSC: A multiple-attribute decision making-based approach for smart city rankings design.
 
-  * 2019 JCR Management of Technology and Innovation 5.846 (Q1)
+   * 2019 JCR Management of Technology and Innovation 5.846 (Q1)
 
 8. 2018-ICAE: A comprehensive common-sense-based architecture for understanding voltage-sag events in electrical grids
 
-  * 2018 JCR 4.904 (Q1)
+   * 2018 JCR 4.904 (Q1)
 
 9. 2018-SENSORS: Analytical Model for the Duty Cycle in Solar-Based EH-WSN for Environmental Monitoring
 
-  * 2018 JCR 2.475 (Q2)
+   * 2018 JCR 2.475 (Q2)
 
 10. 2018-IJDSN: Enabling smart behavior through automatic service composition for Internet of Things–based Smart Homes
 
-  * 2018 JCR 1.614 (Q3)
+   * 2018 JCR 1.614 (Q3)
 
 11. 2018-JRTIP: Heterogeneous SoC-based acceleration of MPEG-7 compliance image retrieval process
 
-  * 2018 JCR 2.588 (Q2)
+   * 2018 JCR 2.588 (Q2)
 
 12. 2018-IoT: A Dynamic Programming Algorithm for High-Level Task Scheduling in Energy Harvesting IoT
 
-  * 2018 JCR 9.515 (Q1)
+   * 2018 JCR 9.515 (Q1)
 
 13. 2017-ESWA-Epilepsy: Non-linear classifiers applied to EEG analysis for epilepsy seizure detection
 
-  * 2017 JCR 3.768 (Q1)
+   * 2017 JCR 3.768 (Q1)
 
 14. 2017-ESWA: Hierarchical Task Network planning with common-sense reasoning for multiple-people behaviour analysis
 
-  * 2017 JCR 3.768 (Q1)
+   * 2017 JCR 3.768 (Q1)
 
 15. 2016-SoftComput: Data stream visualization framework for Smart Cities
 
-  * 2016 JCR 2.472 (Q2)
+   * 2016 JCR 2.472 (Q2)
 
 16. 2016-ENEF: Quality of Service Optimization in Solar Cells-based Energy Harvesting Wireless Sensor Networks
 
-  * 2016 JCR 5-year 1.183
+   * 2016 JCR 5-year 1.183
 
 17. 2016-MULTOOLS: Synthesis of simulation and implementation code for OpenMAX multimedia heterogeneous systems from UML/MARTE models
 
-  * 2017 JCR 1.541 (Q2)
+   * 2017 JCR 1.541 (Q2)
 
 18. 2016-CVIU: Evidential event inference in transport video surveillance
 
-  * 2016 JCR 2.498 (Q2)
+   * 2016 JCR 2.498 (Q2)
 
 19. 2015-JSTARS: A Scalable and Dynamically Reconfigurable FPGA-Based Embedded System for Real-Time Hyperspectral Unmixing
 
-  * 2015 JCR 2.145 (Q1)
+   * 2015 JCR 2.145 (Q1)
 
 20. 2014-SWJ-julio.dondo: Integrating reconfigurable hardware-based grid for high performance computing
 
-  * 2013 JCR 1.219 (Q2)
+   * 2013 JCR 1.219 (Q2)
 
 21. 2015-JSA-jesus.barba: FPGA Acceleration of Semantic Tree Reasoning Algorithms
 
-  * 2015 JCR 0.683 (Q3)
+   * 2015 JCR 0.683 (Q3)
 
 22. 2014-EAAI: Translating Bus Information into Sign Language for Deaf People
 
-  * 2012 JCR 1.625 (Q1)
+   * 2012 JCR 1.625 (Q1)
 
 23. 2014-Sensors-Rafael.Morales: Real-Time Algebraic Derivative Estimations Using a Novel Low-Cost Architecture Based on Reconfigurable Logic,
 
-  * 2014 JCR 2.245 (Q1)
+   * 2014 JCR 2.245 (Q1)
 
 24. 2014-SENSORS: Ubiquitous Virtual Private Network: A Solution for WSN Seamless Integration
 
-  * 2014 JCR 2.245 (Q1)
+   * 2014 JCR 2.245 (Q1)
 
 25. 2014-SWJ: Episodic Reasoning for Vision-Based Human Action Recognition
 
-  * 2013 JCR 1.219 (Q2)
+   * 2013 JCR 1.219 (Q2)
 
 26. 2013-SWJ-julio.dondo: Facilitating Preemptive Hardware System Design using Partial Reconfiguration Techniques
 
-  * 2013 JCR 1.219 (Q2)
+   * 2013 JCR 1.219 (Q2)
 
 27. 2014-JNCA-julio.dondo: Distributed FPGA-based Architecture to Support Indoor Localisation and Orientation Services,
 
-  * 2014 JCR 2.229 (Q1)
+   * 2014 JCR 2.229 (Q1)
 
 28. 2013-JSA: Dynamic Objects: Supporting Fast and Easy Run-Time Reconfiguration in FPGAs
 
-  * 2013 JCR 0.689 (Q3)
+   * 2013 JCR 0.689 (Q3)
 
 29. 2012-SENSORS-jesus.barba: A Reasoning Hardware Platform for Real-Time Common-Sense Inference
 
-  * 2012 JCR 1.953 (Q1)
+   * 2012 JCR 1.953 (Q1)
 
 30. 2012-MICPRO: A comprehensive integration infrastructure for embedded system design
 
-  * 2011 JCR 0.575 (Q4)
+   * 2011 JCR 0.575 (Q4)
 
 31. 2012-PRL: Common-sense reasoning for human action recognition
 
-  * 2011 JCR 1.034 (Q3)
+   * 2011 JCR 1.034 (Q3)
 
 32. 2012-SENSORS: Process-in-Network: A Comprehensive Network Processing Approach
 
-  * 2012 JCR 1.953 (Q1)
+   * 2012 JCR 1.953 (Q1)
 
 33. 2011-AICSP: Implementation of sphere decoder for MIMO-OFDM on FPGAs using high-level synthesis tools
 
-  * 2012 JCR 0.59
+   * 2012 JCR 0.59
 
 34. 2011-EAAI: A semantic model for actions and events in ambient intelligence
 
-  * 2010 JCR 1.352 (Q2)
+   * 2010 JCR 1.352 (Q2)
 
 35. 2011-TCE: A dynamically reconfigurable architecture for Smart Grids
 
-  * 2011 JCR 0.941 (Q3)
+   * 2011 JCR 0.941 (Q3)
 
 36. 2010-ICAE: A qualitative agent-based approach to power quality monitoring and diagnosis
 
-  * 2010 JCR 2.042 (Q2)
+   * 2010 JCR 2.042 (Q2)
 
 37. 2010-TCE: OpenMax Hardware Native Support for Efficient Multimedia Embedded systems
 
-  * 2010 JCR 1.057 (Q2)
+   * 2010 JCR 1.057 (Q2)
 
 
 

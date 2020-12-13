@@ -6,11 +6,11 @@ Summary
 * Journals: 46
 * JCR: 37
 
-  * Q1: 13
-  * Q2: 13
-  * Q3: 7
-  * Q4: 2
-  * None: 2
+   * Q1: 13
+   * Q2: 13
+   * Q3: 7
+   * Q4: 2
+   * None: 2
 
 JCR
 ---
@@ -29,7 +29,7 @@ JCR
 
 4. 2020-IJGI: A Proposal for Modeling Indoor–Outdoor Spaces through IndoorGML, Open Location Code and OpenStreetMap
 
-  * 2018 JCR 1.84 (Q3)
+  * 2018 JCR 2.239 (Q3)
 
 5. 2019-IJDSN: A computer-vision-based system for at-home rheumatoid arthritis rehabilitation
 
@@ -41,7 +41,7 @@ JCR
 
 7. 2019-TFSC: A multiple-attribute decision making-based approach for smart city rankings design.
 
-  * 2018 JCR Social Science Edition (Business) 3.815 (Q1)
+  * 2019 JCR Management of Technology and Innovation 5.846 (Q1)
 
 8. 2018-ICAE: A comprehensive common-sense-based architecture for understanding voltage-sag events in electrical grids
 
